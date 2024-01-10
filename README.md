@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lostvip-com
-- 👀 I’m interested in  program
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in  programing 
+- 🌱 I’m currently learning bigdata framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : www.lostvip.com
 
